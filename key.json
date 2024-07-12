@@ -4,7 +4,7 @@
         "expire": "14.07.2024"
     },
     "EXAMPLE_KEY": {
-        "id": "ID ON STRING OR INT",
-        "expire": "DD.MM.YYYY"
+        "id": "2",
+        "expire": "15.07.2024"
     }
 }
